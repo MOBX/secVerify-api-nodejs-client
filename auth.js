@@ -1,8 +1,8 @@
 let host = "identify.verify.mob.com";
 let url = "/auth/auth/sdkClientFreeLogin";
 
-let appkey = "moba6b6c6d6";
-let appSecret = "b89d2427a3bc7ad1aea1e1e8c1d36bf3";
+let appkey = "";
+let appSecret = "";
 let token = "59616292321333248";
 let opToken = "opToken";
 let operator = "CUCC";
