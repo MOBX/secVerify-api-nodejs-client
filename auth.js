@@ -1,4 +1,4 @@
-let host = "identify.verify.mob.com";
+let host = "identify-auth.zztfly.com";
 let url = "/auth/auth/sdkClientFreeLogin";
 
 let appkey = "";
